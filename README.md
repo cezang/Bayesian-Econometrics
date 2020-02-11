@@ -1,3 +1,3 @@
 ## Bayesian-Econometrics
 
-Here are all projects that uses Bayesian econometrics approach. 
+Wszystkie informacje o projekcie w PDF
